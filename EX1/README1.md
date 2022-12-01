@@ -3,6 +3,7 @@ na linha de comando imprime no terminal um texto constitu´ıdo por n fragmentos
 um com m caracteres, do ficheiro original. Os fragmentos devem ser obtidos em n posições
 diferentes no ficheiro de forma aleatória e ser escritos sequencialmente no stdout sem
 qualquer separador ou mudança de linha entre caracteres > e <.
+
 $ samples
 usage: samples file numberfrags maxfragsize
 $ cat quote.txt
@@ -22,4 +23,5 @@ $ samples quote.txt 5 7
 >unbeam.<
 >king an<
 >y teach<
+
 Sugestão: use as funções fseek(), srandom() e random() da libc. Como semente para a geração dos números aleatórios deve usar o valor 0.
