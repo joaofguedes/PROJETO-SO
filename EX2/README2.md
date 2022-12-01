@@ -26,7 +26,7 @@ ebooks.zip\
 eneida.epub\
 iliada.epub\
 metamorfoses.epub\
-odisseia.epub\
+odisseia.epub
 
 Sugestão: obtenha um conjunto de livros em formato .txt a partir da Internet. Use apenas
 cópias legais de livros. Veja aqui por exemplo: Projecto Gutenberg.
